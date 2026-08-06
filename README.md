@@ -57,15 +57,6 @@ I'm a Fullstack Developer with hands-on experience in building robust applicatio
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hifzi&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hifzi&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hifzi&layout=compact&theme=radical" />
-</p>
-
----
-
 ### 🧱 Infrastructure Highlights
 - 🔐 Built VPN tunnels using MikroTik routers for secure access
 - 🌐 Designed and deployed internal & external networks
