@@ -1,73 +1,86 @@
-<h1 align="center">Hi 👋, I'm Hifzi</h1>
-<h3 align="center">💻 Fullstack Developer | 🔧 DevOps & Server Admin | 🌐 Network & Firewall Engineer</h3>
+<div align="center">
+
+```text
+██╗  ██╗██╗███████╗███████╗██╗
+██║  ██║██║██╔════╝╚══███╔╝██║
+███████║██║█████╗    ███╔╝ ██║
+██╔══██║██║██╔══╝   ███╔╝  ██║
+██║  ██║██║██║     ███████╗██║
+╚═╝  ╚═╝╚═╝╚═╝     ╚══════╝╚═╝
+```
+
+### **Full Stack Developer · End-to-End Web Application Delivery**
+📍 Bandung, Indonesia · 🌐 [hifzi.dev](https://hifzi.dev) · ✉️ [hi@hifzi.dev](mailto:hi@hifzi.dev)
+
+```javascript
+const focus = ["code", "servers", "networks"];
+while (alive) {
+  keepBuilding();
+}
+```
 
 ---
 
-### 👨‍💻 About Me
-
-I'm a Fullstack Developer with hands-on experience in building robust applications from frontend to backend, deploying servers, and setting up network infrastructures. I enjoy clean architecture, efficient workflows, and I'm always eager to explore new technologies.
-
----
-
-### 🚀 Core Skills
-
-#### 💻 Development Stack
-- ⚙️ **Backend**: Laravel · CodeIgniter · Golang · Node.js
-- 💻 **Frontend**: Vue.js · React · JavaScript (ES6+)
-- 🗄️ **Databases**: MySQL · MongoDB · Oracle (experienced)
-
-#### 🐳 DevOps & Server Administration
-- Docker (multi-container setups)
-- Linux server configuration (Ubuntu/Debian)
-- Nginx · Apache · CI/CD (basic)
-
-#### 🌐 Networking & Infrastructure
-- MikroTik: Firewall, NAT, Routing
-- VPN configuration (site-to-site & remote)
-- VLAN, Port Forwarding, Network Mapping
-
----
-
-### 🧠 Current Learning & Future Goals
-
-- 🤖 **Learning AI & Machine Learning** foundations using Python and Golang
-- ⚙️ **Building an Admin Template Starter Kit** with:
-  - Golang as backend
-  - Built-in **user roles, permissions**, and **auth system**
-  - Modular, scalable architecture for fast project kickstart
-- 📡 Expanding DevOps skillset with Kubernetes & advanced CI/CD workflows
-
----
-
-### 🛠️ Tools & Technologies
-<p align="left">
-  <img src="https://img.shields.io/badge/Laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CodeIgniter-E44D26?style=for-the-badge&logo=codeigniter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MikroTik-262626?style=for-the-badge&logo=routeros&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Online-00ff66?style=flat-square&logo=statuspage&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Coding_Since-2013-00e5ff?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Website-hifzi.dev-7928CA?style=flat-square&logo=safari&logoColor=white"/>
 </p>
 
----
-
-### 🧱 Infrastructure Highlights
-- 🔐 Built VPN tunnels using MikroTik routers for secure access
-- 🌐 Designed and deployed internal & external networks
-- 🔥 Configured MikroTik firewalls, NAT rules, and port forwarding
-- 🧭 Created VLAN setups for segmented infrastructure
+</div>
 
 ---
 
-### 📫 Contact Me
-- 📧 Email: [hifzirs19@gmail.com](mailto:hifzirs19@gmail.com)
+### ⚡ About Me
+
+I'm a **Full Stack Developer** focused on building and shipping reliable business applications. In most projects, I handle the **end-to-end delivery lifecycle**:
+
+> **Requirement Gathering** × **System Architecture** × **Database Design** × **Backend REST API** × **Frontend Interfaces** × **Docker & Server Hardening** × **Network Integration**
 
 ---
 
-> 🚀 Always learning, always building — one commit at a time.
+### 🛠️ Tech Stack & Capabilities
+
+<table>
+  <tr>
+    <td width="25%" valign="top"><b>💻 Dev Stack</b></td>
+    <td valign="top">
+      <b>Backend:</b> Laravel, CodeIgniter, PHP, Golang, Node.js<br/>
+      <b>Frontend:</b> Vue.js, React, JavaScript (ES6+), Tailwind CSS<br/>
+      <b>Databases:</b> MySQL, MongoDB, Oracle DB<br/>
+      <b>Architecture:</b> RESTful API, Microservices, RBAC Systems
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>🚀 DevOps & Infra</b></td>
+    <td valign="top">
+      Docker & Compose, Linux Server Administration (Ubuntu/Debian),<br/>
+      Nginx (Reverse Proxy & Load Balancing), SSL Hardening, Git, CI/CD Pipelines
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>🌐 Networking</b></td>
+    <td valign="top">
+      MikroTik RouterOS, Site-to-Site VPN (IPsec/WireGuard/OpenVPN),<br/>
+      Firewall Filtering, NAT & Port Forwarding, VLAN Segmentation, Inter-office Routing
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>🤖 AI & Integration</b></td>
+    <td valign="top">
+      LLM & AI workflow automation for business apps: OpenAI API, Anthropic API, Ollama, vLLM
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📬 Connect With Me
+
+- 🌐 **Website:** [https://hifzi.dev](https://hifzi.dev)
+- ✉️ **Direct Email:** [hi@hifzi.dev](mailto:hi@hifzi.dev)
+- 🐙 **GitHub:** [@hifzi](https://github.com/hifzi)
+
+<div align="center">
+  <sub>Building commit by commit · Bandung, Indonesia</sub>
+</div>
